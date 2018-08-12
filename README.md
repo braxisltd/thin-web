@@ -10,7 +10,7 @@ We have decided on a Scala backend running though [Unfiltered](http://github.com
 
 In the browser we intend to use a combination of [jQuery](http://jquery.com/), [Backbone.js](http://backbonejs.org) & [Require.js](http://requirejs.org/).
 
-Web testing will be provided by the [Selenium](http://seleniumhq.org/) java api for web flow and [Jasmine](http://pivotal.github.com/jasmine/) for js unit tests.
+Web testing will be provided by the [Selenium](http://seleniumhq.org/) java api for web flow and [Jasmine](https://jasmine.github.io/) for js unit tests.
 
 
 We like to develop with well focused best-of-breed libraries and feel that these choices fit this criteria well.
